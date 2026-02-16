@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samad-940&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Samad-940&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Samad-940?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -87,30 +87,29 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samad-940&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samad-940&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-940&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-940&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-940&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-940&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samad-940&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samad-940&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samad-940&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samad-940&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -121,10 +120,10 @@
   <a href="https://www.linkedin.com/in/samadmehboob" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:samadmehboob940@gmail.com" target="_blank">
+  <a href="mailto:samadmehboob940@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Samad-940" target="_blank">
+  <a href="https://github.com/Samad-940">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -151,10 +150,25 @@
 
 ---
 
+### 📫 Get In Touch
+
+<p align="center">
+  💼 <b>Professional Inquiries:</b> samadmehboob940@gmail.com<br>
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/samadmehboob">linkedin.com/in/samadmehboob</a><br>
+  📍 <b>Location:</b> Bahawalpur, Punjab, Pakistan<br>
+  🏢 <b>Current:</b> AI Automation Developer at Ainain Pvt Ltd
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Samad-940">Samad Mehboob</a> | Building the Future with AI & Data
+  <b>⭐️ From <a href="https://github.com/Samad-940">Samad Mehboob</a> | Building the Future with AI & Data ⭐️</b>
+</p>
+
+<p align="center">
+  <i>Open to collaboration and exciting opportunities!</i>
 </p>
