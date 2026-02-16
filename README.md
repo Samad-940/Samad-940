@@ -97,7 +97,7 @@ Portfolio Website - Personal portfolio and resume website
 
 🤝 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/samad-mehboob-130472397" target="_blank">
+  <a href="www.linkedin.com/in/samadmehboob" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="samadmehboob940@gmail.com" target="_blank">
