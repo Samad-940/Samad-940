@@ -15,7 +15,7 @@
 🌱 Exploring advanced Machine Learning and AI Integration
 💡 Passionate about building scalable automation workflows and data-driven insights
 📊 Expertise in creating interactive dashboards and predictive models
-📫 Reach me at: samadmehboob940@gmail.com (Update with your email)
+📫 Reach me at: samadmehboob940@gmail.com 
 🌐 Portfolio: https://your-portfolio.com (Update with your link)
 
 
