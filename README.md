@@ -7,7 +7,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samad-940&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Samad-940?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/Samad-940?tab=followers">
+    <img src="https://img.shields.io/github/followers/Samad-940?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
 ---
@@ -20,7 +22,7 @@
 - 💡 Passionate about building **scalable automation workflows** and **data-driven insights**
 - 📊 Expertise in creating **interactive dashboards** and **predictive models**
 - 📫 Reach me at: **samadmehboob940@gmail.com**
-- 💼 LinkedIn: **[www.linkedin.com/in/samadmehboob](https://www.linkedin.com/in/samadmehboob)**
+- 💼 LinkedIn: **[linkedin.com/in/samadmehboob](https://www.linkedin.com/in/samadmehboob)**
 
 ---
 
@@ -47,7 +49,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping"/>
 </p>
 
 #### **Data Visualization & BI Tools**
@@ -55,7 +56,6 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
 #### **Development Tools**
@@ -73,7 +73,6 @@
 #### 🤖 **Automation Projects**
 - **[n8n Workflow Automation](https://github.com/Samad-940/n8n-workflows)** - Intelligent workflow automation solutions
 - **[Make.com Integration Hub](https://github.com/Samad-940/make-automations)** - Advanced integration systems
-- **[Zapier Automation Suite](https://github.com/Samad-940/zapier-automations)** - Multi-platform workflows
 
 #### 📊 **Data Analytics & ML Projects**
 - **[Sales Trend & Prediction Analysis](https://github.com/Samad-940/Sales-trend-and-Prediction-Analysis)** - Predictive analytics for sales forecasting
@@ -85,38 +84,18 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samad-940&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-940&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-940&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samad-940&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samad-940&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samad-940&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Samad-940&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideNums=70A5FD&currStreakNum=BF91F3&sideLabels=38BDAE&dates=38BDAE" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/samadmehboob" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -124,51 +103,87 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Samad-940">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 💼 Professional Highlights
+### 💼 Professional Summary
 
-```text
+```diff
 🎯 Expertise Areas:
-   ├── AI & Automation Engineering
-   ├── Data Analytics & Visualization  
-   ├── Machine Learning & Predictive Modeling
-   ├── Web Scraping & Data Extraction
-   └── Business Intelligence Solutions
++ AI & Automation Engineering
++ Data Analytics & Visualization  
++ Machine Learning & Predictive Modeling
++ Web Scraping & Data Extraction
++ Business Intelligence Solutions
 
-📊 Skills Breakdown:
-   ├── Automation Tools: n8n, Zapier, Make.com, GoHighLevel
-   ├── Programming: Python, JavaScript, JSON
-   ├── Data Science: ML, Pandas, NumPy, Scikit-Learn
-   ├── Visualization: Power BI, Excel, Matplotlib
-   └── Web: HTML, CSS, JavaScript, Web Scraping
+📊 Core Competencies:
++ Automation: n8n, Zapier, Make.com, GoHighLevel
++ Programming: Python, JavaScript, JSON
++ Data Science: Pandas, NumPy, Scikit-Learn
++ Visualization: Power BI, Excel, Matplotlib
++ Development: Git, GitHub, VS Code, Jupyter
 ```
 
 ---
 
-### 📫 Get In Touch
+### 📈 GitHub Activity
 
-<p align="center">
-  💼 <b>Professional Inquiries:</b> samadmehboob940@gmail.com<br>
-  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/samadmehboob">linkedin.com/in/samadmehboob</a><br>
-  📍 <b>Location:</b> Bahawalpur, Punjab, Pakistan<br>
-  🏢 <b>Current:</b> AI Automation Developer at Ainain Pvt Ltd
-</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<details>
+<summary>📊 More Stats</summary>
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samad-940&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samad-940&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samad-940&theme=tokyonight)
+
+</details>
+
+---
+
+### 📫 Professional Contact
+
+<table align="center">
+  <tr>
+    <td align="center"><b>📧 Email</b></td>
+    <td>samadmehboob940@gmail.com</td>
+  </tr>
+  <tr>
+    <td align="center"><b>💼 LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/samadmehboob">linkedin.com/in/samadmehboob</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📍 Location</b></td>
+    <td>Bahawalpur, Punjab, Pakistan</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏢 Current Role</b></td>
+    <td>AI Automation Developer at Ainain Pvt Ltd</td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <b>⭐️ From <a href="https://github.com/Samad-940">Samad Mehboob</a> | Building the Future with AI & Data ⭐️</b>
+  <b>⭐ From <a href="https://github.com/Samad-940">Samad Mehboob</a> | Building Intelligent Solutions with AI & Data ⭐</b>
 </p>
 
 <p align="center">
-  <i>Open to collaboration and exciting opportunities!</i>
+  <i>💡 Open to collaboration and exciting opportunities in AI & Automation!</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
 </p>
