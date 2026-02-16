@@ -91,11 +91,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Samad-940&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideNums=70A5FD&currStreakNum=BF91F3&sideLabels=38BDAE&dates=38BDAE" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samad-940/Samad-940/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samad-940/Samad-940/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Samad-940/Samad-940/output/github-snake.svg" />
-</picture>
 
 ---
 
@@ -193,3 +188,14 @@
   <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
 </p>
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samad-940/Samad-940/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samad-940/Samad-940/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Samad-940/Samad-940/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
