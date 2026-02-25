@@ -87,8 +87,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samad-940&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Samad-940&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideNums=70A5FD&currStreakNum=BF91F3&sideLabels=38BDAE&dates=38BDAE" /> -->
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samad-940&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Samad-940&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideNums=70A5FD&currStreakNum=BF91F3&sideLabels=38BDAE&dates=38BDAE" />
 </p>
 
 
