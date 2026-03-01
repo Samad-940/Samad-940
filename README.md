@@ -82,23 +82,7 @@
 
 **Tech:** Python, PyTorch, NILMTK, CNN, Mamba, Zero-Shot Learning
 
-```
 
----
-
-## 🎯 **Key Features Main README Mein:**
-
-✨ **Professional Documentation** - 200+ lines  
-✨ **Complete Project Structure**  
-✨ **Installation Instructions**  
-✨ **Usage Examples**  
-✨ **Performance Metrics**  
-✨ **Research References**  
-✨ **Beautiful Badges & Formatting**  
-
----
-
-```
 
 
 
