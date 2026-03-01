@@ -74,6 +74,34 @@
 - **[n8n Workflow Automation](https://github.com/Samad-940/n8n-workflows)** - Intelligent workflow automation solutions
 - **[Make.com Integration Hub](https://github.com/Samad-940/make-automations)** - Advanced integration systems
 
+
+
+### 🔬 Research Project
+
+**[Energy Disaggregation using Deep Learning](https://github.com/Samad-940/Energy-Disaggregation-Deep-Learning)** - Advanced ML project implementing CNN-Mamba architecture for Non-Intrusive Load Monitoring (NILM). Analyzes household energy consumption to identify individual appliances. 89.3% accuracy on UK-DALE dataset.
+
+**Tech:** Python, PyTorch, NILMTK, CNN, Mamba, Zero-Shot Learning
+
+```
+
+---
+
+## 🎯 **Key Features Main README Mein:**
+
+✨ **Professional Documentation** - 200+ lines  
+✨ **Complete Project Structure**  
+✨ **Installation Instructions**  
+✨ **Usage Examples**  
+✨ **Performance Metrics**  
+✨ **Research References**  
+✨ **Beautiful Badges & Formatting**  
+
+---
+
+```
+
+
+
 #### 📊 **Data Analytics & ML Projects**
 - **[Sales Trend & Prediction Analysis](https://github.com/Samad-940/Sales-trend-and-Prediction-Analysis)** - Predictive analytics for sales forecasting
 - **[Machine Learning Models](https://github.com/Samad-940/ml-projects)** - Custom ML solutions
