@@ -71,7 +71,7 @@
 ### 🚀 Featured Projects
 
 #### 🤖 **Automation Projects**
-- **[n8n Workflow Automation](https://github.com/Samad-940/n8n-workflows)** - Intelligent workflow automation solutions
+- **[CocktailMachines Invoice Automation](https://github.com/Samad-940/cocktailmachines-invoice-automation-n8n)** - AI-powered zero-touch invoice processing pipeline | Gmail → OCR → OpenAI → MySQL | n8n
 - **[Make.com Integration Hub](https://github.com/Samad-940/make-automations)** - Advanced integration systems
 
 
